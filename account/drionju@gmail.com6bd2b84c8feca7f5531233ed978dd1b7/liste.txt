@@ -1,0 +1,2 @@
+a:4:{s:7:"item_id";s:1:"1";s:9:"item_name";s:12:"super cadeau";s:9:"item_cost";s:6:"balbla";s:6:"button";s:0:"";}
+a:4:{s:7:"item_id";s:1:"2";s:9:"item_name";s:18:"super cadeau again";s:9:"item_cost";s:4:"test";s:6:"button";s:0:"";}
